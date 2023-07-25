@@ -75,3 +75,8 @@
     line-height: 18px;
     color: var(--vermelho);
 }
+
+#erro{
+ margin: 10px;
+ color: red;
+}
